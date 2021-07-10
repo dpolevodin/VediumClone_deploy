@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/Vue_Medium_clone/'
+    publicPath: '/VediumClone_deploy/'
     }
