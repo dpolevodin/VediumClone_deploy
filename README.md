@@ -1,4 +1,5 @@
 # mediumclone_vue
+site is published at https://dpolevodin.github.io/VediumClone_deploy/
 
 ## Project setup
 ```
